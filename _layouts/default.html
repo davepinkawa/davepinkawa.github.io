@@ -20,7 +20,6 @@
   <body>
       <div id="header">
         <nav>
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <ul>
            <!--  <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>-->
             {% if site.show_downloads %}
@@ -36,13 +35,15 @@
 
       <section>
         <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
-          <hr>
         </div>
+
         {{ content }}
 
       </section>
 
     </div>
+    _Dave Pinkawa is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com._
   </body>
 </html>
