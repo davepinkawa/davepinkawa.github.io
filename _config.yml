@@ -2,6 +2,6 @@ remote_theme: pages-themes/midnight@v0.2.0   # https://github.com/pages-themes/m
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Dave Pinkawa's Blog
-tagline: Writing Code, Smoking Meat, and Leveling Up Life — Balancing Family, Fire, and Fun
+tagline: Leadership, Smoking Meat, and Leveling Up Life — Balancing Family, Fires, and Fun
 description: A light-hearted blog sharing insights on family life, smoking meat recipes, and video game adventures.
 

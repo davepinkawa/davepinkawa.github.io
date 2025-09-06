@@ -1,6 +1,6 @@
 I'm not a huge blogger, so will be maintaining the list here up front of posts, etc.
 
-#### Content and Categories
+### Content and Categories
 - level 1 item
   - level 2 item
   - level 2 item
@@ -13,4 +13,4 @@ I'm not a huge blogger, so will be maintaining the list here up front of posts, 
 - level 1 item
   - level 2 item
   - level 2 item
-- level 1 item
+- Published Work
