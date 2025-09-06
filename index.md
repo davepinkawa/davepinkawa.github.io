@@ -12,5 +12,5 @@ I'm not a huge blogger, so will be maintaining the list here up front of posts, 
   - level 2 item
 - level 1 item
   - level 2 item
-  - level 2 item
-- Published Work
+- About Me
+    - Published Work
